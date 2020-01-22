@@ -1,5 +1,14 @@
-Possibly do something like "dorm-room sounds". 
-- Keurig brewing
-- Music playing (Johnny Cash, oldies, etc)
-- Facetime ring?
-- 
+Project idea: Walking to Class 
+- door opening
+- going up steps
+- going down elevator
+- walking on to Fifth Ave
+- traffic noises
+- putting in headphones
+- music playing
+- walking past construction
+- getting a call from my mom or sister (music stops then cuts back in when call ends)
+- walking past other students
+- steps of cathedral of learning
+- revolving door
+- getting on elevator
