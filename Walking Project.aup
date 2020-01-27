@@ -1,10 +1,10 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="Walking Project_data" version="1.3.0" audacityversion="2.3.3" sel0="0.0000000000" sel1="0.0000000000" vpos="112" h="1.0740978169" zoom="4.6550695116" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Walking Project_data" version="1.3.0" audacityversion="2.3.3" sel0="393.8128363384" sel1="393.8128363384" vpos="592" h="2.0447187764" zoom="2.4453240503" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
-		<tag name="TITLE" value="traffic and buses"/>
+		<tag name="TITLE" value="Digital Phone"/>
 	</tags>
-	<wavetrack name="Door open and close" isSelected="0" height="70" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Door open and close" isSelected="0" height="75" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="335872">
 				<waveblock start="0">
@@ -19,7 +19,7 @@
 			</envelope>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="stairs" isSelected="0" height="51" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="stairs" isSelected="0" height="79" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="7.30387500" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="723968">
 				<waveblock start="0">
@@ -37,24 +37,138 @@
 			</envelope>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="cathedral steps" isSelected="0" height="49" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="16000" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="291.08049887" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="574464">
+	<wavetrack name="Elevator" isSelected="0" height="74" minimized="0" channel="0" linked="1" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="38.61244898" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="682389">
 				<waveblock start="0">
-					<simpleblockfile filename="eff1f3d1.au" len="262144" min="-0.605818" max="0.731651" rms="0.009963"/>
+					<simpleblockfile filename="eff1ffb6.au" len="146698" min="-0.274245" max="0.284212" rms="0.056519"/>
 				</waveblock>
-				<waveblock start="262144">
-					<simpleblockfile filename="eff1fbd2.au" len="262144" min="-0.611015" max="0.559299" rms="0.010664"/>
+				<waveblock start="146698">
+					<simpleblockfile filename="eff1f0db.au" len="146698" min="-0.402608" max="0.513166" rms="0.073109"/>
 				</waveblock>
-				<waveblock start="524288">
-					<simpleblockfile filename="eff1f8d3.au" len="50176" min="-0.071888" max="0.07462" rms="0.005052"/>
+				<waveblock start="293396">
+					<simpleblockfile filename="eff1f02e.au" len="194496" min="-0.348854" max="0.402813" rms="0.076225"/>
+				</waveblock>
+				<waveblock start="487892">
+					<simpleblockfile filename="eff1f191.au" len="194497" min="-0.469397" max="0.513166" rms="0.097232"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="greeting" isSelected="0" height="47" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="149.10732100" colorindex="0">
+	<wavetrack name="Elevator" isSelected="0" height="74" minimized="0" channel="1" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="38.61244898" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="682389">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f160.au" len="146698" min="-0.262678" max="0.271354" rms="0.06323"/>
+				</waveblock>
+				<waveblock start="146698">
+					<simpleblockfile filename="eff1f019.au" len="146698" min="-0.347388" max="0.375066" rms="0.075691"/>
+				</waveblock>
+				<waveblock start="293396">
+					<simpleblockfile filename="eff1f974.au" len="194496" min="-0.392477" max="0.373654" rms="0.083347"/>
+				</waveblock>
+				<waveblock start="487892">
+					<simpleblockfile filename="eff1f966.au" len="194497" min="-0.49966" max="0.473895" rms="0.102662"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="elevator-inside" isSelected="0" height="81" minimized="0" channel="0" linked="1" mute="1" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="33.09098767" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="265030">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f776.au" len="132515" min="-0.180733" max="0.222276" rms="0.035734"/>
+				</waveblock>
+				<waveblock start="132515">
+					<simpleblockfile filename="eff1f346.au" len="132515" min="-1.0" max="1.0" rms="0.075351"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="24.08822917" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="343065">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f7c9.au" len="211772" min="-0.322013" max="0.351703" rms="0.03562"/>
+				</waveblock>
+				<waveblock start="211772">
+					<simpleblockfile filename="eff1f46d.au" len="131293" min="-0.221065" max="0.188327" rms="0.036109"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="64.93384450" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="265030">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f776.au" len="132515" min="-0.180733" max="0.222276" rms="0.035734"/>
+				</waveblock>
+				<waveblock start="132515">
+					<simpleblockfile filename="eff1f346.au" len="132515" min="-1.0" max="1.0" rms="0.075351"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="55.93108600" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="343065">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f7c9.au" len="211772" min="-0.322013" max="0.351703" rms="0.03562"/>
+				</waveblock>
+				<waveblock start="211772">
+					<simpleblockfile filename="eff1f46d.au" len="131293" min="-0.221065" max="0.188327" rms="0.036109"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="elevator-inside" isSelected="0" height="81" minimized="0" channel="1" linked="0" mute="1" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="33.09098767" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="265030">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fdcb.au" len="132515" min="-0.200528" max="0.192793" rms="0.042209"/>
+				</waveblock>
+				<waveblock start="132515">
+					<simpleblockfile filename="eff1f0c3.au" len="132515" min="-1.0" max="1.0" rms="0.080668"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="24.08822917" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="343065">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fcb0.au" len="211772" min="-0.357846" max="0.339681" rms="0.036769"/>
+				</waveblock>
+				<waveblock start="211772">
+					<simpleblockfile filename="eff1f084.au" len="131293" min="-0.203002" max="0.17645" rms="0.036967"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="64.93384450" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="265030">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fdcb.au" len="132515" min="-0.200528" max="0.192793" rms="0.042209"/>
+				</waveblock>
+				<waveblock start="132515">
+					<simpleblockfile filename="eff1f0c3.au" len="132515" min="-1.0" max="1.0" rms="0.080668"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="55.93108600" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="343065">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fcb0.au" len="211772" min="-0.357846" max="0.339681" rms="0.036769"/>
+				</waveblock>
+				<waveblock start="211772">
+					<simpleblockfile filename="eff1f084.au" len="131293" min="-0.203002" max="0.17645" rms="0.036967"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="greeting" isSelected="0" height="68" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="102.13671684" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="194833">
 				<waveblock start="0">
 					<simpleblockfile filename="eff1f744.au" len="194833" min="-0.683186" max="0.713188" rms="0.10413"/>
@@ -63,8 +177,8 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="traffic" isSelected="0" height="155" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="38.61244600" colorindex="0">
+	<wavetrack name="traffic" isSelected="0" height="64" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="70.45530284" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="2745460">
 				<waveblock start="0">
 					<simpleblockfile filename="eff1f5aa.au" len="262144" min="-0.357422" max="0.515383" rms="0.079178"/>
@@ -105,17 +219,17 @@
 			</envelope>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Traffic" isSelected="0" height="61" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="47.69961452" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="5367031">
+	<wavetrack name="Traffic" isSelected="0" height="92" minimized="0" channel="0" linked="1" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="70.45530284" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5361599">
 				<waveblock start="0">
-					<simpleblockfile filename="eff1f646.au" len="262144" min="-0.979381" max="0.863889" rms="0.118769"/>
+					<simpleblockfile filename="eff1fa44.au" len="262144" min="-0.42084" max="0.383807" rms="0.050554"/>
 				</waveblock>
 				<waveblock start="262144">
-					<simpleblockfile filename="eff1fd07.au" len="262144" min="-0.812558" max="0.873912" rms="0.116313"/>
+					<simpleblockfile filename="eff1fda5.au" len="262144" min="-0.797557" max="0.852821" rms="0.092385"/>
 				</waveblock>
 				<waveblock start="524288">
-					<simpleblockfile filename="eff1f6db.au" len="262144" min="-0.992111" max="0.979182" rms="0.186929"/>
+					<simpleblockfile filename="eff1f578.au" len="262144" min="-0.992111" max="0.976301" rms="0.186856"/>
 				</waveblock>
 				<waveblock start="786432">
 					<simpleblockfile filename="eff1f331.au" len="262144" min="-0.768523" max="0.91686" rms="0.140502"/>
@@ -166,98 +280,98 @@
 					<simpleblockfile filename="eff1ffb0.au" len="262144" min="-0.892054" max="0.969618" rms="0.129546"/>
 				</waveblock>
 				<waveblock start="4980736">
-					<simpleblockfile filename="eff1fc00.au" len="193147" min="-0.667798" max="0.674131" rms="0.115261"/>
+					<simpleblockfile filename="eff1fa76.au" len="193147" min="-0.633557" max="0.548973" rms="0.091"/>
 				</waveblock>
 				<waveblock start="5173883">
-					<simpleblockfile filename="eff1f08e.au" len="193148" min="-0.793416" max="0.857846" rms="0.137457"/>
+					<simpleblockfile filename="eff1f969.au" len="187716" min="-0.303103" max="0.277096" rms="0.046118"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="1">
-				<controlpoint t="1.279236420738" val="0.577464818954"/>
+				<controlpoint t="1.064426367969" val="0.450704216957"/>
 			</envelope>
 		</waveclip>
-		<waveclip offset="169.40099774" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="5366066">
+		<waveclip offset="399.60061225" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5371498">
 				<waveblock start="0">
-					<simpleblockfile filename="eff1fa3c.au" len="223026" min="-0.979381" max="0.863889" rms="0.128737"/>
+					<simpleblockfile filename="eff1f30a.au" len="228458" min="-0.979381" max="0.863889" rms="0.127227"/>
 				</waveblock>
-				<waveblock start="223026">
+				<waveblock start="228458">
 					<simpleblockfile filename="eff1fd07.au" len="262144" min="-0.812558" max="0.873912" rms="0.116313"/>
 				</waveblock>
-				<waveblock start="485170">
+				<waveblock start="490602">
 					<simpleblockfile filename="eff1f6db.au" len="262144" min="-0.992111" max="0.979182" rms="0.186929"/>
 				</waveblock>
-				<waveblock start="747314">
+				<waveblock start="752746">
 					<simpleblockfile filename="eff1f331.au" len="262144" min="-0.768523" max="0.91686" rms="0.140502"/>
 				</waveblock>
-				<waveblock start="1009458">
+				<waveblock start="1014890">
 					<simpleblockfile filename="eff1fe3a.au" len="262144" min="-0.621292" max="0.670789" rms="0.082039"/>
 				</waveblock>
-				<waveblock start="1271602">
+				<waveblock start="1277034">
 					<simpleblockfile filename="eff1f47d.au" len="262144" min="-0.687561" max="0.653905" rms="0.112523"/>
 				</waveblock>
-				<waveblock start="1533746">
+				<waveblock start="1539178">
 					<simpleblockfile filename="eff1ff17.au" len="262144" min="-0.504999" max="0.618796" rms="0.086718"/>
 				</waveblock>
-				<waveblock start="1795890">
+				<waveblock start="1801322">
 					<simpleblockfile filename="eff1f624.au" len="262144" min="-0.675671" max="0.772352" rms="0.121085"/>
 				</waveblock>
-				<waveblock start="2058034">
+				<waveblock start="2063466">
 					<simpleblockfile filename="eff1f60f.au" len="262144" min="-0.972486" max="0.966641" rms="0.083392"/>
 				</waveblock>
-				<waveblock start="2320178">
+				<waveblock start="2325610">
 					<simpleblockfile filename="eff1fd4a.au" len="262144" min="-0.502269" max="0.479909" rms="0.058428"/>
 				</waveblock>
-				<waveblock start="2582322">
+				<waveblock start="2587754">
 					<simpleblockfile filename="eff1ff03.au" len="262144" min="-0.692621" max="0.725395" rms="0.095012"/>
 				</waveblock>
-				<waveblock start="2844466">
+				<waveblock start="2849898">
 					<simpleblockfile filename="eff1f31a.au" len="262144" min="-0.973744" max="0.974088" rms="0.160076"/>
 				</waveblock>
-				<waveblock start="3106610">
+				<waveblock start="3112042">
 					<simpleblockfile filename="eff1f84a.au" len="262144" min="-0.970683" max="0.931982" rms="0.104823"/>
 				</waveblock>
-				<waveblock start="3368754">
+				<waveblock start="3374186">
 					<simpleblockfile filename="eff1f932.au" len="262144" min="-0.502476" max="0.60569" rms="0.075907"/>
 				</waveblock>
-				<waveblock start="3630898">
+				<waveblock start="3636330">
 					<simpleblockfile filename="eff1fb55.au" len="262144" min="-0.233362" max="0.24977" rms="0.0337"/>
 				</waveblock>
-				<waveblock start="3893042">
+				<waveblock start="3898474">
 					<simpleblockfile filename="eff1feac.au" len="262144" min="-0.559335" max="0.529325" rms="0.061383"/>
 				</waveblock>
-				<waveblock start="4155186">
+				<waveblock start="4160618">
 					<simpleblockfile filename="eff1f05a.au" len="262144" min="-0.819779" max="0.803585" rms="0.099231"/>
 				</waveblock>
-				<waveblock start="4417330">
+				<waveblock start="4422762">
 					<simpleblockfile filename="eff1f9cb.au" len="262144" min="-0.539664" max="0.47299" rms="0.065158"/>
 				</waveblock>
-				<waveblock start="4679474">
+				<waveblock start="4684906">
 					<simpleblockfile filename="eff1ffb0.au" len="262144" min="-0.892054" max="0.969618" rms="0.129546"/>
 				</waveblock>
-				<waveblock start="4941618">
+				<waveblock start="4947050">
 					<simpleblockfile filename="eff1fb46.au" len="262144" min="-0.667798" max="0.674131" rms="0.121651"/>
 				</waveblock>
-				<waveblock start="5203762">
+				<waveblock start="5209194">
 					<simpleblockfile filename="eff1f88b.au" len="162304" min="-0.793416" max="0.857846" rms="0.12002"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="1">
-				<controlpoint t="3.958380399704" val="0.577464818954"/>
+				<controlpoint t="2.148188450435" val="0.450704216957"/>
 			</envelope>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Traffic" isSelected="0" height="62" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="47.69961452" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="5367031">
+	<wavetrack name="Traffic" isSelected="0" height="92" minimized="0" channel="1" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="70.45530284" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5361599">
 				<waveblock start="0">
-					<simpleblockfile filename="eff1fc07.au" len="262144" min="-0.673273" max="0.618379" rms="0.103391"/>
+					<simpleblockfile filename="eff1f575.au" len="262144" min="-0.288959" max="0.281347" rms="0.039285"/>
 				</waveblock>
 				<waveblock start="262144">
-					<simpleblockfile filename="eff1fe75.au" len="262144" min="-0.71208" max="0.715047" rms="0.121152"/>
+					<simpleblockfile filename="eff1f6c6.au" len="262144" min="-0.689584" max="0.702067" rms="0.096739"/>
 				</waveblock>
 				<waveblock start="524288">
-					<simpleblockfile filename="eff1f432.au" len="262144" min="-0.843185" max="0.814787" rms="0.146731"/>
+					<simpleblockfile filename="eff1ff6a.au" len="262144" min="-0.841412" max="0.814787" rms="0.146662"/>
 				</waveblock>
 				<waveblock start="786432">
 					<simpleblockfile filename="eff1f235.au" len="262144" min="-0.591147" max="0.621521" rms="0.113747"/>
@@ -308,89 +422,107 @@
 					<simpleblockfile filename="eff1f4ad.au" len="262144" min="-0.49011" max="0.485704" rms="0.084675"/>
 				</waveblock>
 				<waveblock start="4980736">
-					<simpleblockfile filename="eff1f67d.au" len="193147" min="-0.344569" max="0.378356" rms="0.077537"/>
+					<simpleblockfile filename="eff1f7f6.au" len="193147" min="-0.325421" max="0.372796" rms="0.062635"/>
 				</waveblock>
 				<waveblock start="5173883">
-					<simpleblockfile filename="eff1f5fa.au" len="193148" min="-0.421306" max="0.384333" rms="0.064482"/>
+					<simpleblockfile filename="eff1f995.au" len="187716" min="-0.182952" max="0.135277" rms="0.023988"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="1">
-				<controlpoint t="1.279236420738" val="0.577464818954"/>
+				<controlpoint t="1.064426367969" val="0.450704216957"/>
 			</envelope>
 		</waveclip>
-		<waveclip offset="169.40099774" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="5366066">
+		<waveclip offset="399.60061225" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5371498">
 				<waveblock start="0">
-					<simpleblockfile filename="eff1f4b0.au" len="223026" min="-0.673273" max="0.618379" rms="0.112029"/>
+					<simpleblockfile filename="eff1fa29.au" len="228458" min="-0.673273" max="0.618379" rms="0.110696"/>
 				</waveblock>
-				<waveblock start="223026">
+				<waveblock start="228458">
 					<simpleblockfile filename="eff1fe75.au" len="262144" min="-0.71208" max="0.715047" rms="0.121152"/>
 				</waveblock>
-				<waveblock start="485170">
+				<waveblock start="490602">
 					<simpleblockfile filename="eff1f432.au" len="262144" min="-0.843185" max="0.814787" rms="0.146731"/>
 				</waveblock>
-				<waveblock start="747314">
+				<waveblock start="752746">
 					<simpleblockfile filename="eff1f235.au" len="262144" min="-0.591147" max="0.621521" rms="0.113747"/>
 				</waveblock>
-				<waveblock start="1009458">
+				<waveblock start="1014890">
 					<simpleblockfile filename="eff1f807.au" len="262144" min="-0.378361" max="0.379071" rms="0.080859"/>
 				</waveblock>
-				<waveblock start="1271602">
+				<waveblock start="1277034">
 					<simpleblockfile filename="eff1fd9e.au" len="262144" min="-0.721488" max="0.725295" rms="0.12437"/>
 				</waveblock>
-				<waveblock start="1533746">
+				<waveblock start="1539178">
 					<simpleblockfile filename="eff1f926.au" len="262144" min="-0.6325" max="0.691015" rms="0.090449"/>
 				</waveblock>
-				<waveblock start="1795890">
+				<waveblock start="1801322">
 					<simpleblockfile filename="eff1ffdb.au" len="262144" min="-0.675655" max="0.700277" rms="0.14168"/>
 				</waveblock>
-				<waveblock start="2058034">
+				<waveblock start="2063466">
 					<simpleblockfile filename="eff1f5e4.au" len="262144" min="-0.846325" max="0.621448" rms="0.101136"/>
 				</waveblock>
-				<waveblock start="2320178">
+				<waveblock start="2325610">
 					<simpleblockfile filename="eff1f049.au" len="262144" min="-0.315964" max="0.315304" rms="0.050146"/>
 				</waveblock>
-				<waveblock start="2582322">
+				<waveblock start="2587754">
 					<simpleblockfile filename="eff1f61d.au" len="262144" min="-0.67415" max="0.642288" rms="0.097116"/>
 				</waveblock>
-				<waveblock start="2844466">
+				<waveblock start="2849898">
 					<simpleblockfile filename="eff1f824.au" len="262144" min="-0.552161" max="0.558507" rms="0.098446"/>
 				</waveblock>
-				<waveblock start="3106610">
+				<waveblock start="3112042">
 					<simpleblockfile filename="eff1f2a9.au" len="262144" min="-0.54895" max="0.56737" rms="0.080563"/>
 				</waveblock>
-				<waveblock start="3368754">
+				<waveblock start="3374186">
 					<simpleblockfile filename="eff1f6cd.au" len="262144" min="-0.59602" max="0.515002" rms="0.078758"/>
 				</waveblock>
-				<waveblock start="3630898">
+				<waveblock start="3636330">
 					<simpleblockfile filename="eff1f829.au" len="262144" min="-0.347412" max="0.385882" rms="0.067197"/>
 				</waveblock>
-				<waveblock start="3893042">
+				<waveblock start="3898474">
 					<simpleblockfile filename="eff1fc83.au" len="262144" min="-0.417501" max="0.470393" rms="0.057028"/>
 				</waveblock>
-				<waveblock start="4155186">
+				<waveblock start="4160618">
 					<simpleblockfile filename="eff1f647.au" len="262144" min="-0.588416" max="0.584846" rms="0.071746"/>
 				</waveblock>
-				<waveblock start="4417330">
+				<waveblock start="4422762">
 					<simpleblockfile filename="eff1fedf.au" len="262144" min="-0.192658" max="0.202557" rms="0.024675"/>
 				</waveblock>
-				<waveblock start="4679474">
+				<waveblock start="4684906">
 					<simpleblockfile filename="eff1f4ad.au" len="262144" min="-0.49011" max="0.485704" rms="0.084675"/>
 				</waveblock>
-				<waveblock start="4941618">
+				<waveblock start="4947050">
 					<simpleblockfile filename="eff1f36a.au" len="262144" min="-0.400605" max="0.384333" rms="0.079908"/>
 				</waveblock>
-				<waveblock start="5203762">
+				<waveblock start="5209194">
 					<simpleblockfile filename="eff1f93c.au" len="162304" min="-0.421306" max="0.362698" rms="0.042338"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="1">
-				<controlpoint t="3.958380399704" val="0.577464818954"/>
+				<controlpoint t="2.148188450435" val="0.450704216957"/>
 			</envelope>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="airpods" isSelected="0" height="63" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="52.79052933" colorindex="0">
+	<wavetrack name="buses" isSelected="0" height="69" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="86.52555088" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="530518">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fde8.au" len="179865" min="-0.92939" max="0.823792" rms="0.155499"/>
+				</waveblock>
+				<waveblock start="179865">
+					<simpleblockfile filename="eff1f4c9.au" len="179869" min="-0.889148" max="0.970833" rms="0.180271"/>
+				</waveblock>
+				<waveblock start="359734">
+					<simpleblockfile filename="eff1fe34.au" len="170784" min="-1.046643" max="1.006165" rms="0.152165"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="7.948323845176" val="0.764705896378"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="airpods" isSelected="0" height="89" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="75.25307100" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="333824">
 				<waveblock start="0">
 					<simpleblockfile filename="eff1f486.au" len="262144" min="-0.757312" max="0.862966" rms="0.008065"/>
@@ -402,8 +534,8 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Voodoo Song" isSelected="0" height="69" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="59.74519600" colorindex="0">
+	<wavetrack name="Voodoo Song" isSelected="1" height="84" minimized="0" channel="0" linked="1" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="82.20773766" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="9975168">
 				<waveblock start="0">
 					<simpleblockfile filename="eff1fffa.au" len="262144" min="-1.058401" max="1.104969" rms="0.224954"/>
@@ -528,8 +660,8 @@
 			</envelope>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Voodoo Song" isSelected="0" height="69" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="59.74519600" colorindex="0">
+	<wavetrack name="Voodoo Song" isSelected="1" height="84" minimized="0" channel="1" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="82.20773766" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="9975168">
 				<waveblock start="0">
 					<simpleblockfile filename="eff1f1ab.au" len="262144" min="-1.045275" max="1.120348" rms="0.21841"/>
@@ -654,22 +786,91 @@
 			</envelope>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="buses" isSelected="0" height="76" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="99.03181872" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="530518">
+	<wavetrack name="cocnrete steps" isSelected="0" height="72" minimized="0" channel="0" linked="1" mute="1" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="11.61608333" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1">
 				<waveblock start="0">
-					<simpleblockfile filename="eff1fde8.au" len="179865" min="-0.92939" max="0.823792" rms="0.155499"/>
-				</waveblock>
-				<waveblock start="179865">
-					<simpleblockfile filename="eff1f4c9.au" len="179869" min="-0.889148" max="0.970833" rms="0.180271"/>
-				</waveblock>
-				<waveblock start="359734">
-					<simpleblockfile filename="eff1fe34.au" len="170784" min="-1.046643" max="1.006165" rms="0.152165"/>
+					<simpleblockfile filename="eff1f61b.au" len="1" min="0.0" max="0.0" rms="0.0"/>
 				</waveblock>
 			</sequence>
-			<envelope numpoints="1">
-				<controlpoint t="7.948323845176" val="0.764705896378"/>
-			</envelope>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="188.84509354" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="557572">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f0d2.au" len="262144" min="-0.244444" max="0.301766" rms="0.009241"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1fb02.au" len="262144" min="-0.30891" max="0.336558" rms="0.009498"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="eff1f731.au" len="33284" min="-0.122148" max="0.126399" rms="0.009044"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cocnrete steps" isSelected="0" height="72" minimized="0" channel="1" linked="0" mute="1" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="11.61608333" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fd92.au" len="1" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="188.84509354" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="557572">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f625.au" len="262144" min="-0.416476" max="0.477689" rms="0.012413"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1fc2f.au" len="262144" min="-0.392664" max="0.435139" rms="0.014275"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="eff1f8ab.au" len="33284" min="-0.129548" max="0.176273" rms="0.00976"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="conversation with mom" isSelected="0" height="101" minimized="0" channel="2" linked="0" mute="1" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="98.55543750" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="908288">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f388.au" len="262144" min="-0.909438" max="0.93891" rms="0.144768"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1f475.au" len="262144" min="-0.957355" max="0.932039" rms="0.123192"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="eff1fb72.au" len="262144" min="-0.927286" max="0.926346" rms="0.105389"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="eff1f298.au" len="121856" min="-0.749899" max="0.916702" rms="0.130772"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="178377__perkin__digital-phone-ring.wav" isSelected="0" height="85" minimized="0" channel="0" linked="1" mute="0" solo="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="59.36888574" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="163584">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1ffbe.au" len="163584" min="-0.796112" max="0.802643" rms="0.16216"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="178377__perkin__digital-phone-ring.wav" isSelected="0" height="85" minimized="0" channel="1" linked="0" mute="0" solo="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="59.36888574" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="163584">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f87d.au" len="163584" min="-0.796112" max="0.802643" rms="0.162152"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
 </project>
