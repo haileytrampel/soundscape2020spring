@@ -27,9 +27,16 @@ Out-sourced media:
 	License: CC BY-NC 3.0 - https://creativecommons.org/licenses/by-nc/3.0/
 	Changes: Sped track up. 
 
+	Title: "Footsteps, Concrete, A.wav"
+	Author: InspectorJ - www.jshaw.co.uk
+	Source: Footspes, Conrete, A.wav - https://freesound.org/people/InspectorJ/sounds/336598/
+	License: CC BY 3.0 - https://creativecommons.org/licenses/by/3.0/
+	Changes: Split clips. 
 
-
-
+	Title: "Digital Phone Ring"
+	Author: Perkin - https://freesound.org/people/Perkin/
+	Source: Digital Phone Ring - https://freesound.org/s/178377/
+	License: CC0 1.0
 	
 
 Self-Recorded Assets:
@@ -41,4 +48,13 @@ Self-Recorded Assets:
 	Author: Hailey Trampel
 
 	Title: "Door open and close"
+	Author: Hailey Trampel
+
+	Title: "Construction and Greeting"
+	Author: Hailey Trampel
+
+	Title: "Conversation with Mom"
+	Author: Hailey Trampel
+
+	Title: "Traffic and Buses"
 	Author: Hailey Trampel
