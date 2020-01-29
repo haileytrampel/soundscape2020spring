@@ -37,6 +37,11 @@ Out-sourced media:
 	Author: Perkin - https://freesound.org/people/Perkin/
 	Source: Digital Phone Ring - https://freesound.org/s/178377/
 	License: CC0 1.0
+
+	Title: "Ambulence siren"
+	Author: Sofialomba - https://freesound.org/people/sofialomba/
+	Source: Ambulence siren - https://freesound.org/people/sofialomba/sounds/469412/
+	License: CC0 1.0
 	
 
 Self-Recorded Assets:
@@ -57,4 +62,7 @@ Self-Recorded Assets:
 	Author: Hailey Trampel
 
 	Title: "Traffic and Buses"
+	Author: Hailey Trampel
+
+	Title: "Walk sign"
 	Author: Hailey Trampel
