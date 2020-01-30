@@ -1,14 +1,10 @@
-Project idea: Walking to Class 
-- door opening
-- going up steps
-- going down elevator
-- walking on to Fifth Ave
-- traffic noises
-- putting in headphones
-- music playing
-- walking past construction
-- getting a call from my mom or sister (music stops then cuts back in when call ends)
-- walking past other students
-- steps of cathedral of learning
-- revolving door
-- getting on elevator
+The storyline of Making My Way is a daily walk to class. It includes recognizable sounds from Fifth Ave, inlcuding the starting and stopping of buses, traffic, sirens, construction, and even the infamous "Walk Sign is on to cross...". Although it seems simple at a glance, it actually memoralizes the things we become so used to that we begin to drown them out in our minds. Maybe it is the music we listen to in order to distract ourselves from the chaos surrounding us, or a simple "Hello," in passing that we forget only moments later. I wanted to put these things in to concrete, into a form I can look back on years from now when I forget just how impactful making my way to class can be. 
+
+**Transcript:**
+It starts with leaving my room. I walk towards the steps and climb a flight, as I don't have an elevator on my floor. Then, I walk to the elevtor on that floor and head down. The elevator is the first loud clip, and you truly are surrounded by the sounds of the mechanics as you go down. The elelevator doors open at the bottom, and I walk outside. As I walk closer to fifth avenue, the volume of the traffics grows. I put in my heaphones to drown it out and start playing the first song on my playlist, Voodoo by Frank Ocean. It is soothing compared to the harshness of the traffic.
+
+I pass buses, one of the loudest sounds I hear on my walk each day. It cuts so hard that it almost beats out my music. I pass a friend along the way, and share a simple hello. It is never much more than a few words, and I usually forget it even occurred only moments later. Sirens rush past--almost everyday this happens at some point, and I actually have gotten so used to them that they no longer shock me. 
+
+Suddenly, my music cuts out and my ringtone goes out. It is my mom calling; we usually talk four or five times a day. Right now, I am almost at class and she just wants to chat, so I ask if I can call her later. We exchange I love you's, and soon my music is back on.
+
+Next, I cross my only cross walk on the way to Cathedral. Crossing Bigelow is a sign to me that I am almost there, matching my footsteps to the repetition of "Walk sign is on to cross... Bigelow Boulevard". Not long after, I climb the steps of Cathedral of Learning and walk inside. I used a metal door shutting because it is more signifying of reaching a destination than the revolving door "woosh" is (I tried both, but it was agreed by those I showed the recording to that a revolving door does not have much of a sound). At this point, the traffic and music have come to an end.
