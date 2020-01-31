@@ -61,8 +61,11 @@ Self-Recorded Assets:
 	Title: "Conversation with Mom"
 	Author: Hailey Trampel
 
-	Title: "Traffic and Buses"
+	Title: "Traffic"
 	Author: Hailey Trampel
 
+	Title: "Buses"
+	Author: Hailey Trampel
+	
 	Title: "Walk sign"
 	Author: Hailey Trampel
